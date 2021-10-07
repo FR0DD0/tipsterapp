@@ -1,0 +1,2 @@
+# tipsterapp
+Aplicacion tipster futbol
